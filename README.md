@@ -1,4 +1,5 @@
 # CS3235 Project (AY19/20 S1 Group 20)
+# Software Defined Radio Leaks
 
 As part of CS3235 Computer Security module at National University of Singapore, we used an appropriate Software Defined Radio to sniff and make sense of the information transmitted between 2.4Ghz Wireless keyboard and a computer with the aim of exploring the security of wireless transmission.  
 
@@ -17,3 +18,5 @@ We are proud to clinched first place at NUS School of Computing Term Project Sho
 * Logitech K270 Wireless Keyboard
 * GNU Radio & GNU Radio Companion
 * GQRX
+
+![Alt text](poster.png "Poster")
